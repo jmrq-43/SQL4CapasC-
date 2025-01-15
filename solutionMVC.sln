@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entityLayer", "entityLayer\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domainLayer", "domainLayer\domainLayer.csproj", "{8E75E72B-674D-4A7B-A213-425B946F53D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presentationLayer", "presentationLayer\presentationLayer.csproj", "{D54C5914-83F0-4ABE-B293-F770A2052D06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{8E75E72B-674D-4A7B-A213-425B946F53D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E75E72B-674D-4A7B-A213-425B946F53D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E75E72B-674D-4A7B-A213-425B946F53D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54C5914-83F0-4ABE-B293-F770A2052D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54C5914-83F0-4ABE-B293-F770A2052D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54C5914-83F0-4ABE-B293-F770A2052D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54C5914-83F0-4ABE-B293-F770A2052D06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
