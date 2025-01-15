@@ -1,6 +1,6 @@
 ﻿namespace presentationLayer;
 
-partial class Form1
+partial class P_Employees
 {
     /// <summary>
     ///  Required designer variable.

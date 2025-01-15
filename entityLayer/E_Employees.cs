@@ -1,5 +1,5 @@
 ﻿namespace entityLayer;
 
-public class Class1
+public class E_Employees
 {
 }
