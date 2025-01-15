@@ -1,5 +1,5 @@
 ﻿namespace domainLayer;
 
-public class Class1
+public class DO_Employees
 {
 }
